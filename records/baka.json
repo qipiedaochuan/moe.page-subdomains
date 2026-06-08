@@ -6,7 +6,7 @@
   "domain": "baka",
   "records": {
     "A": [
-      "1.2.3.4"
+      ""
     ]
   },
   "proxied": false
