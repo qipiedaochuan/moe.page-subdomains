@@ -5,7 +5,7 @@
   },
   "domain": "baka",
   "records": {
-    "TXT": [
+    "A": [
       "第一次使用"
     ]
   },
